@@ -1773,9 +1773,10 @@ input, select, textarea {
 
 			.image.mugi {
 				display: block;
+				margin-left: auto;
+  			margin-right: auto;
 				width: 40%;
 				margin: 0 0 2em 0;
-				text-align: center;
 			}
 
 
